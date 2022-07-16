@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import os
 
 
+
 os.chdir(r'C:\+Non_System\A-DATA-STOCK\Python\fama')
 ZAXID_CSV = 'zaxid_news.csv'
 ZAXID_CONTENT = 'zaxid_content.csv'
